@@ -4,31 +4,6 @@ This repository contains the Java Back-End solution to the challenge proposed in
 <br>
 You can search for any book available in the Gutendex API and store all its information, such as title, author, and language. Note: You cannot add the same book more than once.
 
-## How to Use :page_facing_up:
-
-* First, select an option to start the program. This is the application menu.
-<img src="https://github.com/darociion/literalura/blob/main/screenshots/literalurascreen0.png">
-
-* In this example, option 2 is selected, displaying a list of the current books registered in the database.
-<img src="https://github.com/darociion/literalura/blob/main/screenshots/literalurascreen2-1.png">
-
-* In this example, option 3 is selected, displaying a list of the current authors registered.
-<img src="https://github.com/darociion/literalura/blob/main/screenshots/literalurascreen3.png">
-
-* In this example, option 6 is selected, displaying the top 10 downloaded books stored in the database.
-<img src="https://github.com/darociion/literalura/blob/main/screenshots/literalurascreen6.png">
-
-* In this example, option 7 is selected, displaying the database statistics.
-<img src="https://github.com/darociion/literalura/blob/main/screenshots/literalurascreen7.png">
-
-
-## Run locally :computer:
-
-* Clone the project
-
-```code
-  git clone https://github.com/darociion/literalura.git
-```
 
 * Open it with your favorite Java IDE
 
